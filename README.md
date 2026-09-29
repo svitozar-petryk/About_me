@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Svitozar 👋
 
-<!--
-**svitozar-petryk/svitozar-petryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 EUBA Student | 📊 Data Analyst | 🤖 AI Enthusiast
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Analyst at Raiffeisen Bank
+- Business Management student at EUBA
+- Interested in Data Analytics, BI and AI
+- Working with Excel, SQL and Power BI
+
+## Skills
+
+- SQL
+- Power BI
+- Excel
+- Power Query
+- DAX
+- Oracle
+- AI Tools
+
+## Projects
+
+### Data Quality Checker
+Python-based tool for checking and validating datasets.
+
+### Sales Analytics Dashboard
+Power BI dashboard for analyzing sales performance.
+
+## Certifications
+
+- Google AI Essentials
+- IBM SkillsBuild
+- GitHub Foundations
+- Claude Certified Architect
+
+## Contact
+
+Email: svetttozar@gmail.com
+Call: +421 940 855 616 (Slovakia)
